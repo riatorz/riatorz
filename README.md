@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riatorz&label=Profile%20views&color=ff0f32&style=flat" alt="riatorz" /> </p>
 
-- 🌱 I’m currently learning: **CodeIgniter**
+- 🌱 I’m currently learning: **Python - Advanced**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/riatorz](https://github.com/riatorz)
 
