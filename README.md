@@ -11,7 +11,7 @@
 
 - 🎮 Game Dev? **I am semi game developer, so i like gaming and developing. You can see game project at my github**
 
-- **HACKER RANK [PROFILE](https://www.hackerrank.com/riatorz658)**
+- 👨‍ **HACKER RANK** [PROFILE](https://www.hackerrank.com/riatorz658)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
