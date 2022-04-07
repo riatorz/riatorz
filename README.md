@@ -9,13 +9,16 @@
 
 - 📫 How to reach me **sefa.eren000@gmail.com**
 
-- 🤖 I'm working on a new AUV project as a team leader. [DALAY TEAM](https://github.com/DALAY-SOFTWARE)
+- 🤖 I'm working on a new AUV project as a team leader and software development manager. [DALAY TEAM](https://github.com/DALAY-SOFTWARE)
 
 - 👨‍ **HACKER RANK** [PROFILE](https://www.hackerrank.com/riatorz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sefaeren" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hsefaeren" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/riatorz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riatorz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riatorz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riatorz" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
