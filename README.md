@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sefa.eren000@gmail.com**
 
-- 🎮 Game Dev? **I am semi game developer, so i like gaming and developing. You can see game project at my github**
+- 🤖 I'm working on a new AUV project as a team leader. [DALAY TEAM](https://github.com/DALAY-SOFTWARE)
 
 - 👨‍ **HACKER RANK** [PROFILE](https://www.hackerrank.com/riatorz)
 
