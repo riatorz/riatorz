@@ -13,7 +13,7 @@
 
 - 👨‍ **HACKER RANK** [PROFILE](https://www.hackerrank.com/riatorz)
 
-- 🌐 Organizations: [btu-cse](https://github.com/btu-cse) || [Techat](https://github.com/TeChatProject) || [Dalay Team](https://github.com/dalay-team) || [btu-cse discord bot](https://github.com/btu-cse-bot)
+- 🌐 Organizations: [btu-cse](https://github.com/btu-cse) || [Techat](https://github.com/TeChatProject) || [Dalay Team](https://github.com/dalay-team) || [cat>dogtxt Team](https://github.com/cat-dogtxt)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sefaeren" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hsefaeren" height="30" width="40" /></a>
