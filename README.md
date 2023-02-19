@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sefa.eren000@gmail.com**
 
-- 🤖 I'm working on a new AUV project as a team leader and software development manager. [DALAY TEAM](https://github.com/DALAY-SOFTWARE)
-
 - 👨‍ **HACKER RANK** [PROFILE](https://www.hackerrank.com/riatorz)
 
 - 🌐 Organizations: [btu-cse](https://github.com/btu-cse) || [Techat](https://github.com/TeChatProject) || [Dalay Team](https://github.com/dalay-team) || [cat>dogtxt Team](https://github.com/cat-dogtxt)
